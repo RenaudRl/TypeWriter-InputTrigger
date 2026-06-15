@@ -68,16 +68,15 @@ data class ClickActionBinding(
  * Configuration entry for InputTrigger extension.
  * Contains a list of input definitions and inventory buttons.
  */
-@Entry("input_trigger_config", "Player Input Triggers Configuration", Colors.GRAY, "mdi:keyboard")
+@Entry("input_trigger_config", "Player Input Triggers Configuration", Colors.GREEN, "mdi:keyboard")
 class InputTriggerConfigEntry(
     override val id: String = "default",
+    override val name: String = "input_trigger_config",
     @Help("Input trigger definitions for triggering actions on player input")
     val keybinds: List<InputDefinition> = emptyList(),
     @Help("Clickable buttons in the player inventory or crafting grid")
     val inventoryButtons: List<InventoryButton> = emptyList(),
-) : ManifestEntry {
-    override val name: String get() = "input_trigger_config"
-}
+) : ManifestEntry
 
 /**
  * Defines a single input trigger with its actions and conditions.

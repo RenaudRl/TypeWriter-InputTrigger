@@ -27,6 +27,6 @@ typewriter {
     
 
 kotlin {
-    jvmToolchain(25)
-    
+    jvmToolchain(21)
 }
+

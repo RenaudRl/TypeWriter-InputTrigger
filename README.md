@@ -56,7 +56,7 @@ inventoryButtons = [
 
 ### Field Reference
 
-See the full documentation on the [Wiki](https://docs.borntocraftstudio.net/extensions/InputTrackerExtension/Home).
+See the full documentation on the [Wiki](https://docs.borntocraftstudio.net/extensions/free/inputtracker/).
 
 ---
 
@@ -81,7 +81,7 @@ Output JAR is placed in `build/libs/`.
 
 ## 📖 Wiki
 
-Full documentation: [docs.borntocraftstudio.net](https://docs.borntocraftstudio.net/extensions/InputTrackerExtension/Home)
+Full documentation: [docs.borntocraftstudio.net](https://docs.borntocraftstudio.net/extensions/free/inputtracker/)
 
 ---
 

@@ -1,6 +1,6 @@
 # InputTrigger Extension
 
-![Java Version](https://img.shields.io/badge/Java-25-orange)
+![Java Version](https://img.shields.io/badge/Java-21-orange)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Target](https://img.shields.io/badge/Target-Paper%201.21%2B-blue)
 
@@ -62,7 +62,7 @@ See the full documentation on the [Wiki](https://docs.borntocraftstudio.net/exte
 
 ## 🛠 Building & Deployment
 
-Requires **Java 25**.
+Requires **Java 21**.
 
 ```bash
 ./gradlew build
@@ -74,7 +74,7 @@ Output JAR is placed in `build/libs/`.
 
 ## 📦 Dependencies
 
-- **TypeWriter Engine** `0.9.0-beta-173`
+- **TypeWriter Engine** `0.9.0-beta-176`
 - **Paper API** `1.21.4+`
 
 ---

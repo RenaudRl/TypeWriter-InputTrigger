@@ -10,7 +10,7 @@ repositories {
 }
 
 group = "btc.renaud"
-version = "0.0.4"
+version = "0.0.5"
 
 base {
     archivesName.set("InputTriggerExtension")
@@ -22,7 +22,7 @@ typewriter {
         name = "InputTrigger"
         shortDescription = "Track and trigger actions via player inputs, hotbar slots and inventory buttons."
         description = "A comprehensive TypeWriter extension for intercepting Minecraft key inputs (F, Q, Shift, Ctrl, T, /) and creating clickable inventory buttons with click-type actions, criteria, cooldowns, and crafting grid safety."
-        engineVersion = "0.9.0-beta-176"
+        engineVersion = "0.9.0-beta-177"
         channel = com.typewritermc.moduleplugin.ReleaseChannel.BETA
         paper()
     }

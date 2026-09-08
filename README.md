@@ -74,7 +74,7 @@ Output JAR is placed in `build/libs/`.
 
 ## 📦 Dependencies
 
-- **TypeWriter Engine** `0.9.0-beta-173`
+- **TypeWriter Engine** `0.9.0-beta-177`
 - **Paper API** `1.21.4+`
 
 ---
